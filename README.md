@@ -7,5 +7,8 @@
   <li>I love music, my favourite bands are Manic Street Preachers, Placebo and Suede</li>
   <li>My favourite video game series are Pokemon and SoulCalibur</li>
 </ul>
-![](https://badges.lastfm.workers.dev/last-played?user=xanderzero&style=for-the-badge)
+<h2>Music Stuff :)<h2>
+<!-- lastfm -->
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xxanderzero&show_icons=true&theme=gotham" alt="xxanderzero" />
